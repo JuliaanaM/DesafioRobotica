@@ -29,7 +29,7 @@ Para que o robô se tornasse capaz de cumprir a missão foi feita uma correção
                    
 A distância máxima de detecção dos sensores do Pioneer 3-DX , conforme indicado na lookup table, é igual 5m.
 
-Porm fim, foram adicionados três sensores de luz para a identificação do ponto de parada através da intensidade da luminosidade do local.
+Por fim, foram adicionados três sensores de luz para a identificação do ponto de parada através da intensidade da luminosidade do local.
 # Resultado
 O robô é capaz de chegar ao ponto de parada, evitando os obstáculos, em um tempo de execução de 1 min 16 s.
 # Referência 
