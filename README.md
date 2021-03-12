@@ -35,4 +35,4 @@ O robô é capaz de chegar ao ponto de parada, evitando os obstáculos, em um te
 # Referência 
 1. Cyberbotics. **Lightsensor.** Acesso em: 8 de Março de 2021 [https://cyberbotics.com/doc/reference/lightsensor].
 2. Cyberbotics. **Pioneer 3-DX.** Acesso em: 8 de Março de 2021 [https://cyberbotics.com/doc/guide/pioneer-3dx].
-3. Cyberbotics. **Distance Sensor.** Acesso em: 8 de Março de 2021 [https://cyberbotics.com/doc/reference/distancesensor].
+3. Cyberbotics. **Distance Sensor.** Acesso em: 8 de Março de 2021[https://cyberbotics.com/doc/reference/distancesensor].
